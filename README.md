@@ -3,9 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active directory Homelab (url)</b>
-
-- <b>60 day packet tracer labs (url)</b>
-
+- <b><a href="https://github.com/Yahyak-05/Packet-Tracer-Labs-.git">60 Day Packet Tracer Labs</a></b>
 - <b> Iphone Troubleshooting and repair (url)</b>
 
 - <b> CLOUD (url)</b>
