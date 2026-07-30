@@ -2,7 +2,7 @@
   
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Active directory Homelab (url)</b>
+- <b><a href="https://github.com/Yahyak-05/-Active-Directory-Group-Policy-Management-Lab/blob/main/Active%20Directory%20Documentation.pdf"> </s> Active directory Homelab </b>
 - <b><a href="https://github.com/Yahyak-05/Packet-Tracer-Labs-.git">60 Day Packet Tracer Labs</a></b>
 - <b> Iphone Troubleshooting and repair (url)</b>
 
