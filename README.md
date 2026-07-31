@@ -17,6 +17,10 @@
 ## Certifications
  **Cisco Certified Network Associate (CCNA)** — *In Progress (Scheduled: August 23, 2026)*
 
+ ## Education
+
+Information Technology BSc Hons @York University - 2027
+
 <h2> 🤳 Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-khalif-5a035428a/)
