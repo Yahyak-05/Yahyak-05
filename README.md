@@ -6,12 +6,12 @@
 - <b><a href="https://github.com/Yahyak-05/Packet-Tracer-Labs-.git">60 Day Packet Tracer Labs</a></b>
 - <b> Iphone Troubleshooting and repair (url)</b>
 
-- <b> CLOUD (url)</b>
+- <b> CLOUD </b>
 
 
-- <b> TICKET SYSTEM (url)</b>
+- <b> TICKET SYSTEM </b>
 
-- <b> MS ACCESS LIBRARY DATABASE (url)</b>
+- <b> MS ACCESS LIBRARY DATABASE </b>
 
 
 ## Certifications
