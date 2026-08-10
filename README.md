@@ -5,6 +5,7 @@
 - <b><a href="https://github.com/Yahyak-05/-Active-Directory-Group-Policy-Management-Lab"> </s> Active directory Homelab </b>
 - <b><a href="https://github.com/Yahyak-05/Packet-Tracer-Labs-/blob/main/README.md">60 Day Packet Tracer Labs</a></b>
 
+- <b><a href="https://github.com/Yahyak-05/IT-TroubleShooting-Lab">60 Day Packet Tracer Labs</a></b>
 
 
 ## Certifications
