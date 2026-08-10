@@ -5,12 +5,6 @@
 - <b><a href="https://github.com/Yahyak-05/-Active-Directory-Group-Policy-Management-Lab"> </s> Active directory Homelab </b>
 - <b><a href="https://github.com/Yahyak-05/Packet-Tracer-Labs-/blob/main/README.md">60 Day Packet Tracer Labs</a></b>
 
-- <b> CLOUD </b>
-
-
-- <b> TICKET SYSTEM </b>
-
-- <b> MS ACCESS LIBRARY DATABASE </b>
 
 
 ## Certifications
