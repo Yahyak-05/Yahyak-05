@@ -40,8 +40,8 @@ York University | Expected 2027
 
 **IT Support:** Troubleshooting • Help Desk • Ticketing Systems • User Support  
 **Microsoft:** Microsoft 365 • Active Directory • Group Policy • Windows Server  
-**Networking:** Cisco IOS • TCP/IP • VLANs • STP • EtherChannel • Routing • DHCP • ACLs • Subnetting  
-**Tools:** Cisco Packet Tracer • Spiceworks • VirtualBox • Git • GitHub
+**Networking:** Cisco IOS • TCP/IP • VLANs • STP • EtherChannel • Routing • Subnetting  
+**Tools:** Cisco Packet Tracer • Spiceworks • VirtualBox • GitHub
 
 ---
 
